@@ -1,6 +1,6 @@
 [project]
 site_name = "Prácticas FP · 1DAW-DJK"
-site_url = "https://dbetancorfp.github.io/practicas-fp/1daw-djk/"
+site_url = "https://dbetancorfp.github.io/practicas-fp-1daw-djk/"
 docs_dir = "docs"
 site_dir = "site"
 extra_css = ["stylesheets/cuaderno-docente.css"]

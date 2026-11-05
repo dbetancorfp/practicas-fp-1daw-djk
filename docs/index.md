@@ -1,8 +1,9 @@
 # Prácticas · 1DAW-DJK
 
-??? abstract "UT1 · Digitalización en la 4ª revolución · 1 actividad"
+??? abstract "UT1 · Digitalización en la 4ª revolución · 2 actividades"
 
     - [UT1-A1 · Evolución y Concepto de la Digitalización 4.0](practicas/ut1-digitalizacion-en-la-4a-revolucion/ut1-a1-evolucion-y-concepto-de-la-digitalizacion-4.md) · [Descargar PDF](practicas/ut1-digitalizacion-en-la-4a-revolucion/ut1-a1-evolucion-y-concepto-de-la-digitalizacion-4.pdf)
+    - [UT1-A2 · Proyecto de Digitalización "Extremo a Extremo"](practicas/ut1-digitalizacion-en-la-4a-revolucion/ut1-a2-proyecto-de-digitalizacion-extremo-a-extremo.md) · [Descargar PDF](practicas/ut1-digitalizacion-en-la-4a-revolucion/ut1-a2-proyecto-de-digitalizacion-extremo-a-extremo.pdf)
 
 ??? abstract "UT2 · Tecnologías habilitadoras digitales (THD) · 3 actividades"
 

@@ -6,8 +6,9 @@
     - [UT1-A2 · Proyecto de Digitalización "Extremo a Extremo"](practicas/ut1-digitalizacion-en-la-4a-revolucion/ut1-a2-proyecto-de-digitalizacion-extremo-a-extremo.md) · [Descargar PDF](practicas/ut1-digitalizacion-en-la-4a-revolucion/ut1-a2-proyecto-de-digitalizacion-extremo-a-extremo.pdf)
     - [UT1-A3-El Mapa de la Convergencia IT-OT](practicas/ut1-digitalizacion-en-la-4a-revolucion/ut1-a3-el-mapa-de-la-convergencia-it-ot.md) · [Descargar PDF](practicas/ut1-digitalizacion-en-la-4a-revolucion/ut1-a3-el-mapa-de-la-convergencia-it-ot.pdf)
 
-??? abstract "UT2 · Tecnologías habilitadoras digitales (THD) · 3 actividades"
+??? abstract "UT2 · Tecnologías habilitadoras digitales (THD) · 4 actividades"
 
     - [UT2-A1 · Sesion 1](practicas/ut2-tecnologias-habilitadoras-digitales-thd/ut2-a1-sesion-1-ficha-comparada.md) · [Descargar PDF](practicas/ut2-tecnologias-habilitadoras-digitales-thd/ut2-a1-sesion-1-ficha-comparada.pdf)
     - [UT02-A1 – Sesión 2](practicas/ut2-tecnologias-habilitadoras-digitales-thd/ut2-a1-sesion-2-ficha-comparada.md) · [Descargar PDF](practicas/ut2-tecnologias-habilitadoras-digitales-thd/ut2-a1-sesion-2-ficha-comparada.pdf)
     - [UT2-A1 - Sesión 3 - Ficha comparada de THD](practicas/ut2-tecnologias-habilitadoras-digitales-thd/ut2-a1-sesion-3-ficha-comparada-de-thd.md) · [Descargar PDF](practicas/ut2-tecnologias-habilitadoras-digitales-thd/ut2-a1-sesion-3-ficha-comparada-de-thd.pdf)
+    - [Realidad Aumentada para la identificación de componentes de hardware](practicas/ut2-tecnologias-habilitadoras-digitales-thd/ut2-a2-guia-ra-motherboard.md) · [Descargar PDF](practicas/ut2-tecnologias-habilitadoras-digitales-thd/ut2-a2-guia-ra-motherboard.pdf)
